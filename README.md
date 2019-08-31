@@ -1,9 +1,16 @@
-# Notas:
+# Notas: CHAT PRIVADO, tem que ser um projeto grande para as Empresas
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
+Quero fazer um chat completo: 
+   - com Administração, 
+   - criação de Grupos,
+   - conversas privadas,
+   - alguns códigos livres de html, postagem de vídeo do youtube (isso já acontece, mas tornar mais controlado). 
+   - cadastro de usuários
+   - adicionar gerenciamento de Arquivos, para compartilhamento de anexos;
+   - Salvar dados de clientes da empresa, como pdf.
+   - janela de projetos com blocos de notas tipo sticky notes.
+   - Agendamentos como de reuniões. etc.
 
 ```
-npm install
+npm install socket.io, express, 
 ```
