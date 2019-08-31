@@ -1,4 +1,4 @@
-# Notas: CHAT PRIVADO, tem que ser um projeto grande para as Empresas
+﻿# Notas: CHAT PRIVADO, tem que ser um projeto grande para as Empresas
 
 Quero fazer um chat completo: 
    - com Administração, 
